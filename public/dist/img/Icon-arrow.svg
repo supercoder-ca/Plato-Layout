@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="8px" viewBox="0 0 13 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bootstrap-4-Design-System" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-/-Forms-&amp;-Dropdowns-/-States-/-Elements-/-Placeholder" transform="translate(-274.000000, -8.000000)" stroke="#868E96" stroke-width="1.5">
+            <g id="Icon-/-48px-/-Chevron-/-Down-/-Medium-/-Muted" transform="translate(272.000000, 4.000000)">
+                <g id="Icon-/-48px-/-Chevron-/-Down-/-Large-/-Muted" transform="translate(2.666667, 2.666667)">
+                    <polyline id="Page-1" points="0 2.75 5.5 8.25 11 2.75"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

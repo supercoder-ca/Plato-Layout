@@ -1,0 +1,35 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WebDesign Master",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "2.23.6",
+    "clipboard": "^2.0.0",
+    "del": "3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "4.0.0",
+    "gulp-cache": "1.0.1",
+    "gulp-concat": "2.6.1",
+    "gulp-cssnano": "2.1.2",
+    "gulp-iconfont": "9.1.0",
+    "gulp-iconfont-css": "2.1.0",
+    "gulp-imagemin": "4.0.0",
+    "gulp-install": "^1.1.0",
+    "gulp-rename": "1.2.2",
+    "gulp-rigger": "0.5.8",
+    "gulp-sass": "3.1.0",
+    "gulp-sass-bulk-import": "1.0.1",
+    "gulp-sass-glob": "1.0.8",
+    "gulp-sass-globbing": "0.0.2",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-uglifyjs": "0.6.2",
+    "imagemin-pngquant": "5.0.1",
+    "run-sequence": "2.2.1"
+  }
+}

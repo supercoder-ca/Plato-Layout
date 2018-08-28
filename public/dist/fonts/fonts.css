@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Montserrat-Bold"; 
+    src: url(Montserrat/Montserrat-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: "Roboto-Bold"; 
+    src: url(Roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Medium"; 
+    src: url(Roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Light"; 
+    src: url(Roboto/Roboto-Light.ttf);
+}
+
