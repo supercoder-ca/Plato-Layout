@@ -41,6 +41,11 @@
     display: flex
     align-items: center
     margin-bottom: 10px
+    transition: all .5s
+    &:hover
+        background: #13B2E6
+    &:active
+        background: #00A8DF
     span 
         background: #006492
         padding: 24px
@@ -127,7 +132,7 @@
     cursor: pointer
     font-family: "Roboto-Bold"
     &:hover
-        background: #00ACE4
+        background: #13B2E6
     
 
 .number-steps
@@ -183,6 +188,7 @@ $select-height: 40px
   outline: none
   position: absolute
   left: 80px
+  z-index: -1
 
 .select 
   cursor: pointer
@@ -209,6 +215,7 @@ $select-height: 40px
   padding: 8px 15px
   transition: all 0.2s ease-in
   font-family: "Roboto-Light"
+  color: #212529
   &:after 
     content: url("../img/Icon-arrow.svg")
     width: 0
@@ -260,8 +267,8 @@ $select-height: 40px
     font-size: 14px
     color: #212529
     transition: all .5s
-    &:hover 
-      border-bottom: 1px solid #868E96
+    // &:hover 
+    //   border-bottom: 1px solid #868E96
     &[rel="hide"] 
       display: none
 
@@ -457,7 +464,7 @@ $select-height: 40px
   background: #00ACE4
   cursor: pointer
   &:active
-    background: green
+    background: #00A8DF
 
 .select-box > li:nth-child(1)
     display: none
