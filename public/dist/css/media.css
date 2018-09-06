@@ -195,4 +195,10 @@
   #visibility.visb {
     right: 15px;
   }
+  .already-text {
+    padding-bottom: 0;
+  }
+  .rc-anchor-normal {
+    width: 290px !important;
+  }
 }

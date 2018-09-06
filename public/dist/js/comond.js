@@ -194,6 +194,19 @@ $(document).ready(function(){
         $('.selectDis .elSelect').attr('required', true);
     });
 
+
+    //slide button
+
+    $('#visibility').click(function() {
+        $('#visibility2').addClass('display_block');
+        $(this).addClass('display_none');
+    })
+
+    $('#visibility2').click(function() {
+        $('#visibility').removeClass('display_none');
+        $(this).removeClass('display_block');
+    })
+
     
 
     
